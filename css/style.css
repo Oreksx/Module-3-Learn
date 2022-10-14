@@ -544,6 +544,7 @@ p {
 	border: none;
 	border-radius: 5px;
 	background-color: #f3f3f3;
+	max-width: 339px;
 }
 
 .form-your-mail {
@@ -555,6 +556,7 @@ p {
 	border: none;
 	border-radius: 5px;
 	background-color: #f3f3f3;
+	max-width: 339px;
 }
 
 .form-type {
